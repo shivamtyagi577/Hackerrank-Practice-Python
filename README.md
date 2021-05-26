@@ -1,7 +1,7 @@
-## HackerRank Python Learning
+# HackerRank Python Learning
 My [Python Basic Learning Certificate](https://www.hackerrank.com/certificates/0db9bc787fb7)
 
-# Some Facts Python
+## Some Facts Python
 Python was a hobby project. ...
 Why it was called Python. ...
 The Zen of Python. ...
